@@ -1,0 +1,125 @@
+General
+Unique ID                                : 235420089838906757889349285166427611084 (0xB11C4292D72BB2C4044257E1319F1FCC)
+Complete name                            : Y:\Media\downloads\Hoshimachi Suisei 日本武道館 Live 'SuperNova'\Hoshimachi Suisei 日本武道館 Live 'SuperNova'_t00.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 34.3 GiB
+Duration                                 : 2 h 5 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 39.1 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Hoshimachi Suisei 日本武道館 Live "SuperNova"
+Encoded date                             : 2026-05-08 02:54:22 UTC
+Writing application                      : MakeMKV 1.18.3 win(x64-release)
+Writing library                          : libmakemkv 1.18.3 (1.3.10/1.5.2) win(x64-release)
+Cover                                    : Yes
+Cover description                        : cover.jpg
+Cover type                               : Cover
+Cover MIME                               : image/jpeg
+Attachments                              : cover.jpg
+
+Video
+ID                                       : 1
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 5 min
+Bit rate mode                            : Variable
+Bit rate                                 : 36.8 Mb/s
+Maximum bit rate                         : 40.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.593
+Time code of first frame                 : 01:00:00:00
+Stream size                              : 32.3 GiB (94%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 4352 (0x1100)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 2 h 5 min
+Bit rate mode                            : Constant
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 30.000 FPS (1600 SPF)
+Bit depth                                : 24 bits
+Stream size                              : 2.02 GiB (6%)
+Title                                    : Stereo
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Image
+Type                                     : Cover
+Title                                    : cover.jpg
+Format                                   : JPEG
+Muxing mode                              : Attachment
+Width                                    : 640 pixels
+Height                                   : 360 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 180 KiB (0%)
+Color range                              : Full
+Color primaries                          : BT.709
+Transfer characteristics                 : sRGB/sYCC
+Matrix coefficients                      : Identity
+ColorSpace_ICC                           : RGB
+colour_primaries_ICC_Description         : sRGB IEC61966-2.1
+
+Menu
+00:00:00.000                             : ja:Chapter 01
+00:01:49.542                             : ja:Chapter 02
+00:05:27.293                             : ja:Chapter 03
+00:09:17.523                             : ja:Chapter 04
+00:13:17.797                             : ja:Chapter 05
+00:19:12.684                             : ja:Chapter 06
+00:23:06.952                             : ja:Chapter 07
+00:26:56.881                             : ja:Chapter 08
+00:30:14.112                             : ja:Chapter 09
+00:33:14.559                             : ja:Chapter 10
+00:34:40.411                             : ja:Chapter 11
+00:37:45.563                             : ja:Chapter 12
+00:41:08.632                             : ja:Chapter 13
+00:46:01.325                             : ja:Chapter 14
+00:50:21.251                             : ja:Chapter 15
+00:57:34.250                             : ja:Chapter 16
+01:00:50.747                             : ja:Chapter 17
+01:05:02.431                             : ja:Chapter 18
+01:10:03.465                             : ja:Chapter 19
+01:12:00.983                             : ja:Chapter 20
+01:16:36.558                             : ja:Chapter 21
+01:23:34.042                             : ja:Chapter 22
+01:29:01.502                             : ja:Chapter 23
+01:30:17.945                             : ja:Chapter 24
+01:35:08.069                             : ja:Chapter 25
+01:41:23.944                             : ja:Chapter 26
+01:47:12.192                             : ja:Chapter 27
+01:55:48.608                             : ja:Chapter 28
+02:01:07.260                             : ja:Chapter 29
+02:05:29.522                             : ja:Chapter 30
+
