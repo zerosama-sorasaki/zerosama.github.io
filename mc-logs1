@@ -1,0 +1,1037 @@
+PolyMC version: 7.0
+
+
+Launched instance in online mode
+
+authserver.mojang.com resolves to:
+    [N/A]
+
+session.minecraft.net resolves to:
+    [**.**.**.**]
+
+textures.minecraft.net resolves to:
+    [**.**.**.**]
+
+api.mojang.com resolves to:
+    [**.**.**.**]
+
+
+Minecraft folder is:
+C:/Users/********/AppData/Roaming/PolyMC/instances/26.2/.minecraft
+
+
+Java path is:
+C:/Program Files/Java/graalvm-jdk-25.0.3 9.1/bin/javaw.exe
+
+
+Checking Java version...
+Java is version 25.0.3, using 64 (amd64) architecture, from Oracle Corporation.
+
+
+Main Class:
+  net.fabricmc.loader.impl.launch.knot.KnotClient
+
+Native path:
+  C:/Users/********/AppData/Roaming/PolyMC/instances/26.2/natives
+
+Traits:
+traits FirstThreadOnMacOS
+traits XR:Initial
+
+Libraries:
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-freetype-natives-windows-arm64/3.4.1/lwjgl-freetype-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-freetype-natives-windows-x86/3.4.1/lwjgl-freetype-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-freetype-natives-windows/3.4.1/lwjgl-freetype-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-freetype/3.4.1/lwjgl-freetype-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.4.1/lwjgl-glfw-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.4.1/lwjgl-glfw-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.4.1/lwjgl-glfw-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-glfw/3.4.1/lwjgl-glfw-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.4.1/lwjgl-jemalloc-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.4.1/lwjgl-jemalloc-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.4.1/lwjgl-jemalloc-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-jemalloc/3.4.1/lwjgl-jemalloc-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.4.1/lwjgl-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.4.1/lwjgl-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-natives-windows/3.4.1/lwjgl-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.4.1/lwjgl-openal-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.4.1/lwjgl-openal-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.4.1/lwjgl-openal-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-openal/3.4.1/lwjgl-openal-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.4.1/lwjgl-opengl-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.4.1/lwjgl-opengl-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.4.1/lwjgl-opengl-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-opengl/3.4.1/lwjgl-opengl-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-shaderc-natives-windows-arm64/3.4.1/lwjgl-shaderc-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-shaderc-natives-windows-x86/3.4.1/lwjgl-shaderc-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-shaderc-natives-windows/3.4.1/lwjgl-shaderc-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-shaderc/3.4.1/lwjgl-shaderc-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-spvc-natives-windows-arm64/3.4.1/lwjgl-spvc-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-spvc-natives-windows-x86/3.4.1/lwjgl-spvc-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-spvc-natives-windows/3.4.1/lwjgl-spvc-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-spvc/3.4.1/lwjgl-spvc-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.4.1/lwjgl-stb-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.4.1/lwjgl-stb-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.4.1/lwjgl-stb-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-stb/3.4.1/lwjgl-stb-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.4.1/lwjgl-tinyfd-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.4.1/lwjgl-tinyfd-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.4.1/lwjgl-tinyfd-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-tinyfd/3.4.1/lwjgl-tinyfd-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-vma-natives-windows-arm64/3.4.1/lwjgl-vma-natives-windows-arm64-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-vma-natives-windows-x86/3.4.1/lwjgl-vma-natives-windows-x86-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-vma-natives-windows/3.4.1/lwjgl-vma-natives-windows-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-vma/3.4.1/lwjgl-vma-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl-vulkan/3.4.1/lwjgl-vulkan-3.4.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl/3.4.1/lwjgl-3.4.1-unsafe.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/at/yawk/lz4/lz4-java/1.10.1/lz4-java-1.10.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/azure/azure-json/1.4.0/azure-json-1.4.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/github/oshi/oshi-core/6.9.0/oshi-core-6.9.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/google/code/gson/gson/2.14.0/gson-2.14.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/google/guava/guava/33.6.0-jre/guava-33.6.0-jre.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/ibm/icu/icu4j/78.3/icu4j-78.3.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/microsoft/azure/msal4j/1.24.1/msal4j-1.24.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/authlib/9.0.75/authlib-9.0.75.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/datafixerupper/10.0.21/datafixerupper-10.0.21.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/jtracy/1.0.37/jtracy-1.0.37.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/jtracy-natives-windows/1.0.37/jtracy-natives-windows-1.0.37.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/logging/1.7.12/logging-1.7.12.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/text2speech/1.19.12/text2speech-1.19.12.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/commons-codec/commons-codec/1.22.0/commons-codec-1.22.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-buffer/4.2.15.Final/netty-buffer-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-codec-base/4.2.15.Final/netty-codec-base-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-codec-compression/4.2.15.Final/netty-codec-compression-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-codec-http/4.2.15.Final/netty-codec-http-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-common/4.2.15.Final/netty-common-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-handler/4.2.15.Final/netty-handler-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-resolver/4.2.15.Final/netty-resolver-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-transport-classes-epoll/4.2.15.Final/netty-transport-classes-epoll-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-transport-classes-kqueue/4.2.15.Final/netty-transport-classes-kqueue-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-transport-native-unix-common/4.2.15.Final/netty-transport-native-unix-common-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/io/netty/netty-transport/4.2.15.Final/netty-transport-4.2.15.Final.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/it/unimi/dsi/fastutil/8.5.18/fastutil-8.5.18.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/apache/commons/commons-lang3/3.20.0/commons-lang3-3.20.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/apache/logging/log4j/log4j-api/2.26.0/log4j-api-2.26.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/apache/logging/log4j/log4j-core/2.26.0/log4j-core-2.26.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.26.0/log4j-slf4j2-impl-2.26.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/net/fabricmc/intermediary/26.2/intermediary-26.2.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/net/fabricmc/sponge-mixin/0.17.3 mixin.0.8.7/sponge-mixin-0.17.3 mixin.0.8.7.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/net/fabricmc/fabric-loader/0.19.3/fabric-loader-0.19.3.jar
+  C:/Users/********/AppData/Roaming/PolyMC/libraries/com/mojang/minecraft/26.2/minecraft-26.2-client.jar
+
+Native libraries:
+
+Mods:
+  [✔] alternate-current-mc26.2-1.9.0
+  [✔] antishadowpatch-fabric-26.2-pre-4-2.1.7
+  [✔] baritone-meteor-26.2
+  [✔] c2me-fabric-mc26.2-0.4.2-alpha.0.52
+  [✔] carpet-tis-addition-v1.82.4-mc26.2
+  [✔] chunksending-fabric-26.2-3.9
+  [✔] cicada-lib-0.15.2 26.2
+  [✔] cupboard-fabric-26.2-4.2
+  [✔] do_a_barrel_roll-fabric-3.8.4 26.2
+  [✔] dreamdisplays-fabric-26.2-1.10.0-preview.1
+  [✔] fabric-api-0.161.0 26.2
+  [✔] fabric-carpet-26.2 v260616
+  [✔] fastasyncworldsave-fabric-26.1-2.6
+  [✔] ferritecore-9.0.0-fabric
+  [✔] krypton-0.3.1
+  [✔] Ksyxis-1.4.4
+  [✔] lithium-fabric-0.25.3 mc26.2 (1)
+  [✔] meteor-client-26.2-25
+  [✔] modernfix-5.27.19-build.1
+  [✔] modmenu-20.0.3
+  [✔] notsoshadowextras-fabric-26.2-pre-4-2.1.7
+  [✔] polymer-bundled-0.17.5 26.2
+  [✔] polysit-0.9.11 mc.26.2
+  [✔] ScalableLux-fabric-0.3.0-alpha.0.3-all
+  [✔] signed_paintings-1.2.15-mc26.2
+  [✔] SlashLength-1.0.0
+  [✔] sodium-fabric-0.9.2 mc26.2
+  [✔] yet_another_config_lib_v3-3.9.6 26.2-fabric
+  [✔] zfastnoise-1.1.0-beta.3 26.2
+
+Params:
+  --username  --version 26.2 --gameDir C:/Users/********/AppData/Roaming/PolyMC/instances/26.2/.minecraft --assetsDir C:/Users/********/AppData/Roaming/PolyMC/assets --assetIndex 32 --uuid  --accessToken  --versionType release
+
+Window size: 854 x 480
+
+Java Arguments:
+[-XX: UseG1GC, -XX: ParallelRefProcEnabled, -XX:MaxGCPauseMillis=200, -XX: UnlockExperimentalVMOptions, -XX: DisableExplicitGC, -XX: AlwaysPreTouch, -XX:G1HeapWastePercent=5, -XX:G1MixedGCCountTarget=4, -XX:InitiatingHeapOccupancyPercent=15, -XX:G1MixedGCLiveThresholdPercent=90, -XX:G1RSetUpdatingPauseTimePercent=5, -XX:SurvivorRatio=32, -XX: PerfDisableSharedMem, -XX:MaxTenuringThreshold=1, -Dusing.aikars.flags=https://mcflags.emc.gs, -Daikars.new.flags=true, -XX:G1NewSizePercent=30, -XX:G1MaxNewSizePercent=40, -XX:G1HeapRegionSize=8M, -XX:G1ReservePercent=20, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx6144m, -Duser.language=en]
+
+
+Minecraft process ID: 3048
+
+
+[11:46:39] [main/INFO]: Loading Minecraft 26.2 with Fabric Loader 0.19.3
+[11:46:39] [main/INFO]: Loading 141 mods:
+	- alternate-current 1.9.0
+	- antishadowpatch 2.1.7
+	- baritone-meteor 26.2-SNAPSHOT
+	   \-- dev_babbaj_nether-pathfinder 1.6
+	- c2me 0.4.2-alpha.0.52 26.2
+	   |-- c2me-base 0.4.2-alpha.0.52 26.2
+	   |-- c2me-client-uncapvd 0.4.2-alpha.0.52 26.2
+	   |-- c2me-fixes-chunkio-threading-issues 0.4.2-alpha.0.52 26.2
+	   |-- c2me-fixes-general-threading-issues 0.4.2-alpha.0.52 26.2
+	   |-- c2me-fixes-worldgen-threading-issues 0.4.2-alpha.0.52 26.2
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.4.2-alpha.0.52 26.2
+	   |-- c2me-notickvd 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-allocs 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-chunkio 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-dfc 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-math 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-natives-math 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-scheduling 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-worldgen-general 0.4.2-alpha.0.52 26.2
+	   |-- c2me-opts-worldgen-vanilla 0.4.2-alpha.0.52 26.2
+	   |-- c2me-rewrites-chunk-serializer 0.4.2-alpha.0.52 26.2
+	   |-- c2me-rewrites-chunk-system 0.4.2-alpha.0.52 26.2
+	   |-- c2me-rewrites-chunkio 0.4.2-alpha.0.52 26.2
+	   |-- c2me-server-utils 0.4.2-alpha.0.52 26.2
+	   |-- c2me-threading-lighting 0.4.2-alpha.0.52 26.2
+	   |-- com_github_ben-manes_caffeine_caffeine 3.2.1
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.12
+	   |-- mixinsquared 0.3.7-beta.1
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- carpet 26.2 v260616
+	- carpet-tis-addition 1.82.4
+	   \-- conditional-mixin 0.6.4
+	- chunksending 26.2-3.9
+	- cicada 0.15.2 26.2
+	   \-- org_yaml_snakeyaml 2.2
+	- cupboard 26.2-4.2
+	- do_a_barrel_roll 3.8.4
+	   \-- fabric-permissions-api-v0 0.6.1
+	- dreamdisplays 1.10.0-preview.1
+	- fabric-api 0.161.0 26.2
+	   |-- fabric-advancement-api-v1 1.0.0 58719a3b9e
+	   |-- fabric-api-base 2.0.4 ece063239e
+	   |-- fabric-api-lookup-api-v1 2.0.18 11e1c9a39e
+	   |-- fabric-biome-api-v1 18.0.6 c7bd5b8e9e
+	   |-- fabric-block-api-v1 3.1.0 53515aab9e
+	   |-- fabric-block-getter-api-v2 2.0.7 ec56b6019e
+	   |-- fabric-command-api-v2 3.1.0 00cb03469e
+	   |-- fabric-content-registries-v0 11.3.2 37b1aa249e
+	   |-- fabric-convention-tags-v2 4.7.1 1f023a9e9e
+	   |-- fabric-crash-report-info-v1 1.0.5 086d547a9e
+	   |-- fabric-creative-tab-api-v1 5.0.15 6468574f9e
+	   |-- fabric-data-attachment-api-v1 2.2.19 515ac5339e
+	   |-- fabric-data-generation-api-v1 25.6.0 c0da0b829e
+	   |-- fabric-debug-api-v1 1.0.2 c792624d9e
+	   |-- fabric-dimensions-v1 5.1.12 515ac5339e
+	   |-- fabric-entity-events-v1 5.0.5 06488ac19e
+	   |-- fabric-events-interaction-v0 5.2.8 515ac5339e
+	   |-- fabric-game-rule-api-v1 4.0.8 46a6d00c9e
+	   |-- fabric-item-api-v1 14.5.0 c68f6cbe9e
+	   |-- fabric-key-mapping-api-v1 2.0.5 e2bdee789e
+	   |-- fabric-lifecycle-events-v1 4.1.4 29b6eb019e
+	   |-- fabric-loot-api-v3 3.0.17 06488ac19e
+	   |-- fabric-menu-api-v1 2.0.17 086d547a9e
+	   |-- fabric-message-api-v1 7.0.8 bb2ed3f79e
+	   |-- fabric-model-loading-api-v1 8.0.17 c80601bb9e
+	   |-- fabric-networking-api-v1 6.3.4 2989c6a09e
+	   |-- fabric-object-builder-api-v1 24.1.1 6fcd5f039e
+	   |-- fabric-particles-v1 5.0.19 d1756aa99e
+	   |-- fabric-permission-api-v1 1.0.5 e442d8d09e
+	   |-- fabric-recipe-api-v1 9.0.22 11e1c9a39e
+	   |-- fabric-registry-sync-v0 7.1.1 c7bd5b8e9e
+	   |-- fabric-renderer-api-v1 14.1.4 2b0d8a229e
+	   |-- fabric-renderer-indigo 9.1.4 2b0d8a229e
+	   |-- fabric-rendering-fluids-v1 6.0.4 06488ac19e
+	   |-- fabric-rendering-v1 25.3.3 515ac5339e
+	   |-- fabric-resource-conditions-api-v1 6.1.0 10e9a28b9e
+	   |-- fabric-resource-loader-v0 3.3.20 4fc5413f9e
+	   |-- fabric-resource-loader-v1 2.0.13 9edec1269e
+	   |-- fabric-screen-api-v1 5.2.1 5087f8249e
+	   |-- fabric-serialization-api-v1 2.0.4 11a26f319e
+	   |-- fabric-sound-api-v1 2.0.5 11a26f319e
+	   |-- fabric-tag-api-v1 2.1.4 515ac5339e
+	   |-- fabric-transfer-api-v1 8.0.13 11dbb7d79e
+	   \-- fabric-transitive-access-wideners-v1 8.1.4 67c847259e
+	- fabricloader 0.19.3
+	   \-- mixinextras 0.5.4
+	- fastasyncworldsave 26.1-2.6
+	- ferritecore 9.0.0
+	- java 25
+	- krypton 0.3.1
+	   \-- com_velocitypowered_velocity-native 3.4.0-SNAPSHOT
+	- ksyxis 1.4.4
+	- lithium 0.25.3 mc26.2
+	- meteor-client 26.2-25
+	   |-- de_florianreuth_waybackauthlib 1.1.0
+	   |-- fabric-api-base 2.0.4 ece063239e
+	   |-- io_netty_netty-codec-socks 4.2.15
+	   |-- io_netty_netty-handler-proxy 4.2.15
+	   |-- meteordevelopment_discord-ipc 1.1
+	   |-- meteordevelopment_orbit 0.2.4
+	   |-- net_lenni0451_commons_gson 1.9.2
+	   |-- net_lenni0451_commons_httpclient 1.9.2
+	   |-- net_raphimc_minecraftauth 5.0.2
+	   |-- org_javassist_javassist 3.28.0-GA
+	   |-- org_meteordev_starscript 0.2.5
+	   \-- org_reflections_reflections 0.10.2
+	- minecraft 26.2
+	- modernfix 5.27.19-build.1
+	   \-- mixinextras 0.5.4
+	- modmenu 20.0.3
+	   \-- fabric-api-base 2.0.4 ece063239e
+	- notsoshadowextras 2.1.7
+	   \-- fconfiglib 1.1.1
+	- polymer-bundled 0.17.5 26.2
+	   |-- polymer-autohost 0.17.5 26.2
+	   |-- polymer-blocks 0.17.5 26.2
+	   |-- polymer-common 0.17.5 26.2
+	   |-- polymer-core 0.17.5 26.2
+	   |    |-- polymer-networking 0.17.5 26.2
+	   |    |    \-- polymer-common 0.17.5 26.2
+	   |    \-- polymer-registry-sync-manipulator 0.17.5 26.2
+	   |-- polymer-resource-pack 0.17.5 26.2
+	   |    \-- polymer-common 0.17.5 26.2
+	   |-- polymer-resource-pack-extras 0.17.5 26.2
+	   |-- polymer-sound-patcher 0.17.5 26.2
+	   \-- polymer-virtual-entity 0.17.5 26.2
+	        \-- polymer-common 0.17.5 26.2
+	- polysit 0.9.11 mc.26.2
+	- scalablelux 0.3.0-alpha.0.3 26.2
+	- signed_paintings 1.2.15-mc26.2
+	- slashlength 1.0.0
+	- sodium 0.9.2 mc26.2
+	- yet_another_config_lib_v3 3.9.6 26.2-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- zfastnoise 1.1.0-beta.3 26.2
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+[11:46:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/********/AppData/Roaming/PolyMC/libraries/net/fabricmc/sponge-mixin/0.17.3 mixin.0.8.7/sponge-mixin-0.17.3 mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[11:46:40] [main/INFO]: Compatibility level set to JAVA_16
+[11:46:40] [main/INFO]: Compatibility level set to JAVA_17
+[11:46:40] [main/INFO]: Compatibility level set to JAVA_25
+[11:46:41] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.sun.jna.Native in an unnamed module (file:/C:/Users/********/AppData/Roaming/PolyMC/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+[11:46:42] [main/INFO]: CPU name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+[11:46:42] [main/INFO]: Detected 4 available physical CPUs, 8 available logical CPUs
+[11:46:42] [main/INFO]: Detected 4 available physical CPUs, 8 available logical CPUs
+[11:46:42] [main/INFO]: Global Executor Parallelism: 3 configured, 3 evaluated, 3 default evaluated
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.client.uncapvd.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.natives_math.mixin
+[11:46:42] [main/INFO]: Attempting to call native library. If your game crashes right after this point, native acceleration may not be available for your system.
+[11:46:42] [main/INFO]: Detected maximum supported ISA target: AVX2
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[11:46:42] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[11:46:42] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[11:46:42] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:46:42] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:46:42] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
+[11:46:42] [main/INFO]: Loaded configuration file for ModernFix 5.27.19-build.1: 68 options available, 4 override(s) found
+[11:46:42] [main/WARN]: Option 'mixin.perf.release_protochunks' overriden (by mods [c2me]) to 'false'
+[11:46:42] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[11:46:42] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[11:46:42] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[11:46:42] [main/INFO]: Applying Nashorn fix
+[11:46:42] [main/INFO]: Configuring Minecraft's max.bg.threads option with 5 threads
+[11:46:42] [main/WARN]: Reference map 'modernfix.refmap.json' for modernfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:46:42] [main/WARN]: Reference map 'modernfix.refmap.json' for modernfix-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:46:42] [main/INFO]: Loaded configuration file for Sodium: 37 options available, 0 override(s) found
+[11:46:42] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:46:42] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:46:43] [main/WARN]: Error loading class: net/vulkanmod/config/option/Options (java.lang.ClassNotFoundException: net/vulkanmod/config/option/Options)
+[11:46:44] [main/INFO]: Loaded config for: chunksending.json
+[11:46:46] [main/INFO]: Searching for graphics cards...
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by org.lwjgl.system.MemoryUtil (file:/C:/Users/********/AppData/Roaming/PolyMC/libraries/org/lwjgl/lwjgl/3.4.1/lwjgl-3.4.1-unsafe.jar)
+WARNING: Please consider reporting this to the maintainers of class org.lwjgl.system.MemoryUtil
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[11:46:46] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=INTEL, description='Intel(R) UHD Graphics', adapterType=0x0000232B, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_5663d448badd4b3f\ig11icd64.dll', openglIcdVersion=31.0.101.2137}
+[11:46:46] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce MX350', adapterType=0x00002311, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\nvltig.inf_amd64_cfec3e7de6520682\nvoglv64.dll', openglIcdVersion=31.0.15.3758}
+[11:46:46] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN]
+[11:46:46] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[11:46:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[11:46:49] [Datafixer Bootstrap #0/INFO]: 293 Datafixer optimizations took 923 milliseconds
+[11:46:51] [main/INFO]: ModernFix reached bootstrap stage (13.63 s after launch)
+[11:46:54] [main/WARN]: Method overwrite conflict for getTemperature in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[11:47:00] [main/INFO]: Vanilla bootstrap took 9409 milliseconds
+[11:47:01] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[11:47:01] [Render thread/INFO]: Setting user: Makiatto_
+[11:47:01] [Render thread/INFO]: Loaded config for: cupboard.json
+[11:47:01] [Render thread/INFO]: Initializing server-side mod...
+[11:47:02] [Render thread/INFO]: Server-side initialization complete.
+[11:47:02] [Cicada thread 0/INFO]: [do_a_barrel_roll] One day I'll finish the swimming version of this mod. One day.
+[11:47:02] [Cicada thread 0/INFO]: [do_a_barrel_roll] Though that day may come sooner than expected...
+[11:47:02] [Render thread/INFO]: Compression will use Java, encryption will use Java
+[11:47:02] [Render thread/INFO]: Ksyxis: Ready to remove unneeded chunks. (platform: fabric, version: 1.4.4, mixin: 0.8.7)
+[11:47:03] [Render thread/INFO]: Hello Fabric world!
+[11:47:03] [Render thread/WARN]: @Redirect conflict. Skipping cupboard.mixins.json:CommandExceptionLoggingMixin from mod cupboard->@Redirect::cupboard$logCommandError(Lorg/slf4j/Logger;)Z with priority 200, already redirected by carpet.mixins.json:Commands_customCommandsMixin from mod carpet->@Redirect::doesOutputCommandStackTrace(Lorg/slf4j/Logger;)Z with priority 1000
+[11:47:03] [Render thread/INFO]: Starting Dream Displays...
+[11:47:03] [FFmpeg-prewarm/INFO]: Using binary: C:\Users\********\AppData\Roaming\PolyMC\instances\26.2\.minecraft\.\dreamdisplays\ffmpeg\windows-x64\ffmpeg.exe.
+[11:47:04] [NativeMedia-prewarm/INFO]: Native media pipeline active: .\dreamdisplays\native\windows-x64\dreamdisplays_native.dll (nv12=true, rgba=true, yuvGpu=true).
+[11:47:04] [FFmpeg-prewarm/INFO]: FFmpeg optional filters available: [scale_vaapi, scale_cuda].
+[11:47:04] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[11:47:04] [Render thread/INFO]: Krypton is now accelerating your Minecraft client's networking stack 🚀
+[11:47:04] [Render thread/INFO]: Note that Krypton is most effective on servers, not the client.
+[11:47:04] [NativeMedia-prewarm/INFO]: In-process libav backend available: .\dreamdisplays\native\windows-x64\dreamdisplays_lav.dll (surfaceInterop=true, replayCache=true).
+[11:47:04] [Render thread/INFO]: Checking mod updates...
+[11:47:04] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\********\AppData\Roaming\PolyMC\instances\26.2\.minecraft\config\yacl.json5'
+[11:47:04] [ModMenu/Update Checker/Fabric Loader/INFO]: Update available for 'fabricloader@0.19.3'
+[11:47:05] [Download-2/INFO]: Update available for 'zfastnoise@1.1.0-beta.3 26.2', (-> 1.0.40 26.2)
+[11:47:05] [Download-2/INFO]: Update available for 'modernfix@5.27.19-build.1', (-> 5.27.19-build.2)
+[11:47:05] [Download-2/INFO]: Update available for 'ksyxis@1.4.4', (-> 1.4.5)
+[11:47:05] [Download-2/INFO]: Update available for 'cicada@0.15.2 26.2', (-> 0.15.3 26.2)
+[11:47:05] [Download-2/INFO]: Update available for 'yet_another_config_lib_v3@3.9.6 26.2-fabric', (-> 3.9.7 26.2-fabric)
+[11:47:05] [DefaultDispatcher-worker-1/INFO]: yt-dlp fast path active: python yt-dlp.pyz.
+[11:47:06] [Render thread/INFO]: Backend library: LWJGL version 3.4.1-snapshot
+[11:47:06] [Render thread/INFO]: Modifying process environment to apply workarounds for the NVIDIA graphics driver...
+[11:47:06] [Render thread/INFO]: Using graphics backend Vulkan, using drivers: 1.3.242 NVIDIA 537.58
+[11:47:06] [Render thread/INFO]: Using graphics device: NVIDIA GeForce MX350 (NVIDIA)
+[11:47:06] [Render thread/INFO]: Using graphics device extensions: VK_KHR_synchronization2 (D), VK_EXT_multi_draw (D), VK_AMD_buffer_marker (D), VK_EXT_vertex_attribute_divisor (D), VK_KHR_win32_surface (I), VK_KHR_swapchain (D), VK_KHR_surface (I), VK_KHR_push_descriptor (D), VK_EXT_debug_utils (I), VK_KHR_dynamic_rendering (D)
+[11:47:08] [Render thread/INFO]: Reloading ResourceManager: vanilla, alternate-current, antishadowpatch, c2me, carpet, carpet-tis-addition, chunksending, cicada, conditional-mixin, do_a_barrel_roll, dreamdisplays, fabric-advancement-api-v1, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-getter-api-v2, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-creative-tab-api-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-debug-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-key-mapping-api-v1, fabric-lifecycle-events-v1, fabric-loot-api-v3, fabric-menu-api-v1, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-permission-api-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fconfiglib, krypton, ksyxis, lithium, meteor-client, modernfix, modmenu, notsoshadowextras, polymer-blocks, polymer-core, polymer-resource-pack, polysit, scalablelux, signed_paintings, slashlength, sodium, yet_another_config_lib_v3, zfastnoise, $polymer-resources, file/Appa Ghasts1.3.1.zip
+[11:47:09] [Worker-ResourceReload-0/INFO]: Found unifont_all_no_pua-17.0.01.hex, loading
+[11:47:09] [Worker-ResourceReload-3/INFO]: Found unifont_pua-17.0.01.hex, loading
+[11:47:10] [Worker-ResourceReload-4/INFO]: Found unifont_jp_patch-17.0.01.hex, loading
+[11:47:10] [Render thread/INFO]: [STDOUT]: [nether-pathfinder] Created temp file at C:\Users\********\AppData\Local\Temp\nether_pathfinder-x86_6412765140093465245445.dll
+[11:47:10] [Render thread/INFO]: [STDERR]: [nether-pathfinder] Failed to delete temp file
+[11:47:10] [Render thread/INFO]: [STDOUT]: [nether-pathfinder] Loaded shared library
+[11:47:11] [Render thread/INFO]: Initializing Meteor Client
+[11:47:12] [Render thread/INFO]: Reflections took 1258 ms to scan 1 urls, producing 20 keys and 964 values
+[11:47:12] [Render thread/WARN]: Failed to load system font BabelSans Regular (C:\WINDOWS\Fonts\BabelSans.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Bakemono Stereo Trial Bold (C:\WINDOWS\Fonts\Bakemono-Stereo-Regular-trial.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font BigNoodleTitling Regular (C:\WINDOWS\Fonts\big_noodle_titling_oblique.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font biling mi marathi Regular (C:\WINDOWS\Fonts\bilingmimarathi-Regular.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font bits indian calligra Regular (C:\WINDOWS\Fonts\bitsindiancalligra-BoldItal.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font bits indian calligra Regular (C:\WINDOWS\Fonts\bitsindiancalligra-Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font bits indian calligra Regular (C:\WINDOWS\Fonts\bitsindiancalligra-Regular.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1 Black.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1 Light Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1 Light.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1 Medium Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1 Medium.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1 Thin Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1 Thin.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V1 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V1.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2 Black.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2 Light Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2 Light.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2 Medium Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2 Medium.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2 Thin Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2 Thin.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota ANSI V2 Regular (C:\WINDOWS\Fonts\Li Saboj Charulota ANSI V2.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode Black.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode Light Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode Light.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode Medium Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode Medium.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode Thin Italic.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode Thin.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Li Saboj Charulota Unicode Regular (C:\WINDOWS\Fonts\Li-Saboj Charulota Unicode.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Linux Libertine Slanted Regular (C:\WINDOWS\Fonts\LinLibertine_aRL.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Linux Libertine Capitals Regular (C:\WINDOWS\Fonts\LinLibertine_aS.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Linux Libertine Capitals Regular (C:\WINDOWS\Fonts\LinLibertine_aSZI.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Linux Libertine Slanted Regular (C:\WINDOWS\Fonts\LinLibertine_aZL.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Linux Libertine Regular (C:\WINDOWS\Fonts\LinLibertine_RZ.ttf)
+[11:47:13] [Render thread/WARN]: Failed to load system font Linux Libertine Regular (C:\WINDOWS\Fonts\LinLibertine_RZI.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Royal Acidbath Regular (C:\WINDOWS\Fonts\Royalacid_o.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Solomon Regular (C:\WINDOWS\Fonts\Solomon - thin.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Solomon Deco Regular (C:\WINDOWS\Fonts\Solomon Deco - light.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Solomon Deco Regular (C:\WINDOWS\Fonts\Solomon Deco - thin.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Teen Regular (C:\WINDOWS\Fonts\teenbold.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Teen Regular (C:\WINDOWS\Fonts\teen__.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Swis721 Lt BT Regular (C:\WINDOWS\Fonts\tt0002m.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Geometr212 BkCn BT Regular (C:\WINDOWS\Fonts\tt0504m.ttf)
+[11:47:14] [Render thread/WARN]: Failed to load system font Century751 SeBd BT Regular (C:\WINDOWS\Fonts\tt1183m.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Edo SZ Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\edosz.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Martinhand3 Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Martinhand3.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Black Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-Black.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Black Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-BlackItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Bold (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-Bold.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Bold Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-BoldItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat ExtraBold Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-ExtraBold.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat ExtraBold Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-ExtraBoldItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat ExtraLight Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-ExtraLight.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat ExtraLight Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-ExtraLightItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-Italic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Light Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-Light.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Light Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-LightItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Medium Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-MediumItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-Regular.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat SemiBold Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-SemiBold.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat SemiBold Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-SemiBoldItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Thin Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-Thin.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Montserrat Thin Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Montserrat-ThinItalic.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Open Sans Italic (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\OpenSans-Italic-VariableFont_wdth,wght.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font Pixeboy Regular (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\Pixeboy-z8XGD.ttf)
+[11:47:15] [Render thread/WARN]: Failed to load system font PT Sans Bold (C:\Users\********\AppData\Local\Microsoft\Windows\Fonts\PTSans-Bold.ttf)
+[11:47:15] [Render thread/INFO]: Found 1002 font families.
+[11:47:15] [Render thread/INFO]: Path Manager: Baritone
+[11:47:15] [Render thread/INFO]: Loading
+[11:47:16] [Render thread/INFO]: Loaded in 126 milliseconds
+[ALSOFT] (EE) Failed to initialize audio client: 0x8889000a
+[ALSOFT] (EE) Device error: Device init failed: 0x8889000a
+[11:47:18] [Render thread/ERROR]: Create context (2104508519104): Invalid device.
+[11:47:18] [Render thread/ERROR]: Error starting SoundSystem. Turning off sounds & music
+java.lang.IllegalStateException: Unable to create OpenAL context
+	at knot//com.mojang.blaze3d.audio.Library.init(Library.java:169)
+	at knot//net.minecraft.client.sounds.SoundEngine.loadLibrary(SoundEngine.java:120)
+	at knot//net.minecraft.client.sounds.SoundEngine.reload(SoundEngine.java:109)
+	at knot//net.minecraft.client.sounds.SoundManager.apply(SoundManager.java:122)
+	at knot//net.minecraft.client.sounds.SoundManager.apply(SoundManager.java:41)
+	at knot//net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:15)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$3(SimpleReloadInstance.java:59)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:173)
+	at knot//net.minecraft.util.thread.ReentrantBlockableEventLoop.mixinextras$bridge$doRunTask$5(ReentrantBlockableEventLoop.java)
+	at knot//net.minecraft.util.thread.ReentrantBlockableEventLoop.wrapOperation$cjm000$carpet-tis-addition$yeetUpdateSuppressionCrash_implForThreadExecutorTaskExecuting(ReentrantBlockableEventLoop.java:578)
+	at knot//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:147)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:127)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1235)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:959)
+	at knot//net.minecraft.client.main.Main.main(Main.java:292)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104)
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176)
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186)
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144)
+	at org.polymc.EntryPoint.main(EntryPoint.java:74)
+[11:47:18] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/chest.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/celestials.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/items.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[11:47:18] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[11:47:23] [Render thread/ERROR]: Invalid mod icon for icon source baritone-meteor: assets/baritone/icon.png
+[11:47:23] [Render thread/WARN]: Warning! Mod baritone-meteor has a broken icon, loading default icon
+[11:47:23] [Render thread/ERROR]: Invalid mod icon for icon source cupboard: assets/icon.png
+[11:47:23] [Render thread/WARN]: Warning! Mod cupboard has a broken icon, loading default icon
+[11:47:27] [Render thread/ERROR]: Invalid mod icon for icon source fastasyncworldsave: assets/icon.png
+[11:47:27] [Render thread/WARN]: Warning! Mod fastasyncworldsave has a broken icon, loading default icon
+[11:47:34] [Render thread/INFO]: Loaded 1585 recipes
+[11:47:34] [Render thread/INFO]: Loaded 1688 advancements
+[11:47:34] [Render thread/WARN]: Initial datapack load took 2.750 s
+[11:48:00] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[11:48:09] [Render thread/INFO]: Applied 0 biome modifications to 0 of 66 new biomes in 3.183 ms
+[11:48:09] [Server thread/INFO]: Starting integrated minecraft server version 26.2
+[11:48:09] [Server thread/INFO]: Generating keypair
+[11:48:09] [Server thread/INFO]: Enforcing safe world random access
+[11:48:10] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 215.3 ms
+[11:48:10] [Server thread/INFO]: [STDOUT]: [ScalableLux] Lighting scaling is enabled in externally managed mode
+[11:48:10] [Server thread/INFO]: Using TheSpeedyObjectFactory without Unsafe
+[11:48:10] [Server thread/INFO]: Selecting global world spawn...
+[11:48:12] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 56.47 ms
+[11:48:12] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 23.01 ms
+[11:48:12] [Server thread/INFO]: Ksyxis: Speeding up the world loading... Delete the mod, if it got stuck after this message. (net.minecraft.client.server.IntegratedServer prepareLevels)
+[11:48:12] [Server thread/INFO]: Loading 0 persistent chunks...
+[11:48:12] [Server thread/INFO]: Preparing spawn area: 16%
+[11:48:12] [Server thread/INFO]: saving Alternate Current config
+[11:48:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test]'/minecraft:overworld
+[11:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test]'/minecraft:the_nether
+[11:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Test]'/minecraft:the_end
+[11:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:48:13] [Server thread/INFO]: HikariPool-1 - Starting...
+[11:48:13] [Server thread/INFO]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@7d95f990
+[11:48:13] [Server thread/INFO]: HikariPool-1 - Start completed.
+[11:48:13] [Server thread/INFO]: Preparing create tables statements took 47ms
+[11:48:13] [Server thread/INFO]: Preparing create sequences statements took 1ms
+[11:48:13] [Server thread/INFO]: Preparing alter tables statements took 0ms
+[11:48:13] [Server thread/INFO]: Checking mapping consistence took 2ms
+[11:48:13] [Server thread/INFO]: Server started. Storage connected.
+[11:48:15] [Server thread/INFO]: Loading 0 chunks for player spawn...
+[11:48:15] [Server thread/INFO]: Preparing spawn area: 16%
+[11:48:15] [Server thread/INFO]: Time elapsed: 4544 ms
+[11:48:15] [Render thread/INFO]: Joined server with c2me:ext_render_distance_v1 support
+[11:48:15] [Server thread/INFO]: Makiatto_[local:E:4b21548e] logged in with entity id 1 at (-3.5, 56.0, -6.5)
+[11:48:15] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.NoSuchMethodError: 'boolean me.lucko.fabric.api.permissions.v0.Permissions.check(net.minecraft.world.entity.Entity, java.lang.String, net.minecraft.server.permissions.PermissionLevel)'
+	at knot//eu.pb4.polymer.common.impl.FabricPermissionBridge.checkPermission(FabricPermissionBridge.java:30)
+	at knot//eu.pb4.polymer.common.impl.CommonImplUtils.permissionCheck(CommonImplUtils.java:93)
+	at knot//eu.pb4.polymer.core.api.item.PolymerCreativeModeTabUtils.getContentsFor(PolymerCreativeModeTabUtils.java:46)
+	at knot//eu.pb4.polymer.core.impl.networking.payloads.s2c.PolymerCreativeTabContentAddS2CPayload.of(PolymerCreativeTabContentAddS2CPayload.java:29)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroupContents(PolymerServerProtocol.java:215)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroup(PolymerServerProtocol.java:201)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendCreativeSyncPackets(PolymerServerProtocol.java:188)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendSyncPackets(PolymerServerProtocol.java:126)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocolHandler.lambda$register$0(PolymerServerProtocolHandler.java:20)
+	at knot//eu.pb4.polymer.common.impl.EventImplUtils.lambda$createBiConsumerEvent$1(EventImplUtils.java:21)
+	at knot//net.minecraft.server.players.PlayerList.handler$gbc000$polymer-networking$polymerNet$setupHandler(PlayerList.java:5961)
+	at knot//net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:184)
+	at knot//net.minecraft.server.network.config.PrepareSpawnTask$Ready.spawn(PrepareSpawnTask.java:198)
+	at knot//net.minecraft.server.network.config.PrepareSpawnTask.spawnPlayer(PrepareSpawnTask.java:91)
+	at knot//net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:178)
+	at knot//net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22)
+	at knot//net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:8)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1032)
+	at knot//net.minecraft.client.server.IntegratedServer.processPacketsAndTick(IntegratedServer.java:107)
+	at knot//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:773)
+	at knot//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[11:48:16] [Server thread/ERROR]: This crash report has been saved to: C:\Users\********\AppData\Roaming\PolyMC\instances\26.2\.minecraft\crash-reports\crash-2026-09-26_11.48.16-server.txt
+[11:48:16] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.ReportedException: Exception in server tick loop
+	at knot//net.minecraft.util.thread.BlockableEventLoop.throwDelayedException(BlockableEventLoop.java:203)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:137)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:127)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1235)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:959)
+	at knot//net.minecraft.client.main.Main.main(Main.java:292)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104)
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176)
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186)
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144)
+	at org.polymc.EntryPoint.main(EntryPoint.java:74)
+Caused by: java.lang.NoSuchMethodError: 'boolean me.lucko.fabric.api.permissions.v0.Permissions.check(net.minecraft.world.entity.Entity, java.lang.String, net.minecraft.server.permissions.PermissionLevel)'
+	at knot//eu.pb4.polymer.common.impl.FabricPermissionBridge.checkPermission(FabricPermissionBridge.java:30)
+	at knot//eu.pb4.polymer.common.impl.CommonImplUtils.permissionCheck(CommonImplUtils.java:93)
+	at knot//eu.pb4.polymer.core.api.item.PolymerCreativeModeTabUtils.getContentsFor(PolymerCreativeModeTabUtils.java:46)
+	at knot//eu.pb4.polymer.core.impl.networking.payloads.s2c.PolymerCreativeTabContentAddS2CPayload.of(PolymerCreativeTabContentAddS2CPayload.java:29)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroupContents(PolymerServerProtocol.java:215)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroup(PolymerServerProtocol.java:201)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendCreativeSyncPackets(PolymerServerProtocol.java:188)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendSyncPackets(PolymerServerProtocol.java:126)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocolHandler.lambda$register$0(PolymerServerProtocolHandler.java:20)
+	at knot//eu.pb4.polymer.common.impl.EventImplUtils.lambda$createBiConsumerEvent$1(EventImplUtils.java:21)
+	at knot//net.minecraft.server.players.PlayerList.handler$gbc000$polymer-networking$polymerNet$setupHandler(PlayerList.java:5961)
+	at knot//net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:184)
+	at knot//net.minecraft.server.network.config.PrepareSpawnTask$Ready.spawn(PrepareSpawnTask.java:198)
+	at knot//net.minecraft.server.network.config.PrepareSpawnTask.spawnPlayer(PrepareSpawnTask.java:91)
+	at knot//net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:178)
+	at knot//net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22)
+	at knot//net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:8)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1032)
+	at knot//net.minecraft.client.server.IntegratedServer.processPacketsAndTick(IntegratedServer.java:107)
+	at knot//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:773)
+	at knot//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[11:48:16] [Server thread/INFO]: Server stopping. Saving displays...
+[11:48:16] [Server thread/INFO]: HikariPool-1 - Shutdown initiated...
+[11:48:16] [Server thread/INFO]: HikariPool-1 - Shutdown completed.
+[11:48:16] [Server thread/INFO]: Stopping server
+[11:48:16] [Server thread/INFO]: Saving players
+[11:48:16] [Server thread/INFO]: Saving worlds
+[11:48:16] [Server thread/INFO]: ServerLevel[Test]/minecraft:overworld: waiting for 574 chunks to unload
+---- Minecraft Crash Report ----
+// Why did you do that?
+Time: 2026-09-26 11:48:16
+Description: Exception in server tick loop
+java.lang.NoSuchMethodError: 'boolean me.lucko.fabric.api.permissions.v0.Permissions.check(net.minecraft.world.entity.Entity, java.lang.String, net.minecraft.server.permissions.PermissionLevel)'
+	at knot//eu.pb4.polymer.common.impl.FabricPermissionBridge.checkPermission(FabricPermissionBridge.java:30)
+	at knot//eu.pb4.polymer.common.impl.CommonImplUtils.permissionCheck(CommonImplUtils.java:93)
+	at knot//eu.pb4.polymer.core.api.item.PolymerCreativeModeTabUtils.getContentsFor(PolymerCreativeModeTabUtils.java:46)
+	at knot//eu.pb4.polymer.core.impl.networking.payloads.s2c.PolymerCreativeTabContentAddS2CPayload.of(PolymerCreativeTabContentAddS2CPayload.java:29)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroupContents(PolymerServerProtocol.java:215)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroup(PolymerServerProtocol.java:201)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendCreativeSyncPackets(PolymerServerProtocol.java:188)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendSyncPackets(PolymerServerProtocol.java:126)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocolHandler.lambda$register$0(PolymerServerProtocolHandler.java:20)
+	at knot//eu.pb4.polymer.common.impl.EventImplUtils.lambda$createBiConsumerEvent$1(EventImplUtils.java:21)
+	at knot//net.minecraft.server.players.PlayerList.handler$gbc000$polymer-networking$polymerNet$setupHandler(PlayerList.java:5961)
+	at knot//net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:184)
+	at knot//net.minecraft.server.network.config.PrepareSpawnTask$Ready.spawn(PrepareSpawnTask.java:198)
+	at knot//net.minecraft.server.network.config.PrepareSpawnTask.spawnPlayer(PrepareSpawnTask.java:91)
+	at knot//net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:178)
+	at knot//net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22)
+	at knot//net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:8)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1032)
+	at knot//net.minecraft.client.server.IntegratedServer.processPacketsAndTick(IntegratedServer.java:107)
+	at knot//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:773)
+	at knot//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at knot//eu.pb4.polymer.common.impl.FabricPermissionBridge.checkPermission(FabricPermissionBridge.java:30)
+	at knot//eu.pb4.polymer.common.impl.CommonImplUtils.permissionCheck(CommonImplUtils.java:93)
+	at knot//eu.pb4.polymer.core.api.item.PolymerCreativeModeTabUtils.getContentsFor(PolymerCreativeModeTabUtils.java:46)
+	at knot//eu.pb4.polymer.core.impl.networking.payloads.s2c.PolymerCreativeTabContentAddS2CPayload.of(PolymerCreativeTabContentAddS2CPayload.java:29)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroupContents(PolymerServerProtocol.java:215)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.syncItemGroup(PolymerServerProtocol.java:201)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendCreativeSyncPackets(PolymerServerProtocol.java:188)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocol.sendSyncPackets(PolymerServerProtocol.java:126)
+	at knot//eu.pb4.polymer.core.impl.networking.PolymerServerProtocolHandler.lambda$register$0(PolymerServerProtocolHandler.java:20)
+	at knot//eu.pb4.polymer.common.impl.EventImplUtils.lambda$createBiConsumerEvent$1(EventImplUtils.java:21)
+-- Uptime --
+Details:
+	JVM uptime: 98.650s
+	Wall uptime: 75.112s
+	High-res time: 70.245s
+	Client ticks: 1024 ticks / 51.200s
+Stacktrace:
+	at knot//net.minecraft.client.Minecraft.fillReport(Minecraft.java:2496)
+	at knot//net.minecraft.client.Minecraft.emergencySaveAndCrash(Minecraft.java:1008)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:980)
+	at knot//net.minecraft.client.main.Main.main(Main.java:292)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104)
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176)
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186)
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144)
+	at org.polymc.EntryPoint.main(EntryPoint.java:74)
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: vanilla, alternate-current, antishadowpatch, c2me, carpet, carpet-tis-addition, chunksending, cicada, conditional-mixin, do_a_barrel_roll, dreamdisplays, fabric-advancement-api-v1, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-getter-api-v2, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-creative-tab-api-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-debug-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-key-mapping-api-v1, fabric-lifecycle-events-v1, fabric-loot-api-v3, fabric-menu-api-v1, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-permission-api-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fconfiglib, krypton, ksyxis, lithium, meteor-client, modernfix, modmenu, notsoshadowextras, polymer-blocks, polymer-core, polymer-resource-pack, polysit, scalablelux, signed_paintings, slashlength, sodium, yet_another_config_lib_v3, zfastnoise, $polymer-resources, file/Appa Ghasts1.3.1.zip
+-- System Details --
+Details:
+	Minecraft Version: 26.2
+	Minecraft Version ID: 26.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 25.0.3, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 158369336 bytes (151 MiB) / 780140544 bytes (744 MiB) up to 6442450944 bytes (6144 MiB)
+	Memory (heap): init: 512MiB, used: 578MiB, committed: 744MiB, max: 6144MiB
+	Memory (non-head): init: 007MiB, used: 292MiB, committed: 295MiB, max: 000MiB
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+	Identifier: Intel64 Family 6 Model 126 Stepping 5
+	Microarchitecture: Ice Lake (Client)
+	Frequency (GHz): 1.19
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: Intel(R) UHD Graphics
+	Graphics card #0 vendor: Intel Corporation
+	Graphics card #0 VRAM (MiB): 1024.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 31.0.101.2137
+	Graphics card #1 name: NVIDIA GeForce MX350
+	Graphics card #1 vendor: NVIDIA
+	Graphics card #1 VRAM (MiB): 2048.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 31.0.15.3758
+	Memory slot #0 capacity (MiB): 4096.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 4096.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 16152.93
+	Virtual memory used (MiB): 8372.21
+	Swap memory total (MiB): 8192.00
+	Swap memory used (MiB): 1183.80
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 121797.73, total: 975359.00
+	Space in storage for workdir (MiB): available: 121797.73, total: 975359.00
+	Operating System Version: Microsoft Windows 11 build 26100
+	Process Elevated: false
+	Process Loads: Uptime: 99s, user: 126s (128.03%), kernel: 83s (84.70%), total: 210s (212.74%)
+	Process Virtual Size (MiB): 1697.20
+	Process Resident Size (MiB): 1562.47
+	JVM Flags: 26 total; -XX:ThreadPriorityPolicy=1 -XX: UnlockExperimentalVMOptions -XX: EnableJVMCIProduct -XX: EnableJVMCI -XX:-UnlockExperimentalVMOptions -XX: UseG1GC -XX: ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX: UnlockExperimentalVMOptions -XX: DisableExplicitGC -XX: AlwaysPreTouch -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX: PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx6144m
+	Debug Flags: 0 total; 
+	Fabric Mods: 
+		alternate-current: Alternate Current 1.9.0
+		antishadowpatch: Anti Shadow Patch 2.1.7
+		baritone-meteor: Baritone 26.2-SNAPSHOT
+			dev_babbaj_nether-pathfinder: nether-pathfinder 1.6
+		c2me: Concurrent Chunk Management Engine 0.4.2-alpha.0.52 26.2
+			c2me-base: Concurrent Chunk Management Engine (Base) 0.4.2-alpha.0.52 26.2
+			c2me-client-uncapvd: Concurrent Chunk Management Engine (Client/Uncap View Distance) 0.4.2-alpha.0.52 26.2
+			c2me-fixes-chunkio-threading-issues: Concurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues) 0.4.2-alpha.0.52 26.2
+			c2me-fixes-general-threading-issues: Concurrent Chunk Management Engine (Fixes/General/Threading Issues) 0.4.2-alpha.0.52 26.2
+			c2me-fixes-worldgen-threading-issues: Concurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues) 0.4.2-alpha.0.52 26.2
+			c2me-fixes-worldgen-vanilla-bugs: Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs) 0.4.2-alpha.0.52 26.2
+			c2me-notickvd: Concurrent Chunk Management Engine (No Tick View Distance) 0.4.2-alpha.0.52 26.2
+			c2me-opts-allocs: Concurrent Chunk Management Engine (Optimizations/Memory Allocations) 0.4.2-alpha.0.52 26.2
+			c2me-opts-chunkio: Concurrent Chunk Management Engine (Optimizations/Chunk IO) 0.4.2-alpha.0.52 26.2
+			c2me-opts-dfc: Concurrent Chunk Management Engine (Optimizations/Density Function Compiler) 0.4.2-alpha.0.52 26.2
+			c2me-opts-math: Concurrent Chunk Management Engine (Optimizations/Math) 0.4.2-alpha.0.52 26.2
+			c2me-opts-natives-math: Concurrent Chunk Management Engine (Optimizations/Natives Math) 0.4.2-alpha.0.52 26.2
+			c2me-opts-scheduling: Concurrent Chunk Management Engine (Optimizations/Scheduling) 0.4.2-alpha.0.52 26.2
+			c2me-opts-worldgen-general: Concurrent Chunk Management Engine (Optimizations/General WorldGen) 0.4.2-alpha.0.52 26.2
+			c2me-opts-worldgen-vanilla: Concurrent Chunk Management Engine (Optimizations/Vanilla WorldGen) 0.4.2-alpha.0.52 26.2
+			c2me-rewrites-chunk-serializer: Concurrent Chunk Management Engine (Rewrites/Chunk Serializer) 0.4.2-alpha.0.52 26.2
+			c2me-rewrites-chunk-system: Concurrent Chunk Management Engine (Rewrites/Chunk System) 0.4.2-alpha.0.52 26.2
+			c2me-rewrites-chunkio: Concurrent Chunk Management Engine (Rewrites/Chunk IO) 0.4.2-alpha.0.52 26.2
+			c2me-server-utils: Concurrent Chunk Management Engine (Server Utils) 0.4.2-alpha.0.52 26.2
+			c2me-threading-lighting: Concurrent Chunk Management Engine (Threading/Lighting) 0.4.2-alpha.0.52 26.2
+			com_github_ben-manes_caffeine_caffeine: caffeine 3.2.1
+			com_ibm_async_asyncutil: asyncutil 0.1.0
+			io_reactivex_rxjava3_rxjava: rxjava 3.1.12
+			mixinsquared: MixinSquared 0.3.7-beta.1
+			net_objecthunter_exp4j: exp4j 0.4.8
+			org_jctools_jctools-core: jctools-core 4.0.5
+			org_reactivestreams_reactive-streams: reactive-streams 1.0.4
+		carpet: Carpet Mod 26.2 v260616
+		carpet-tis-addition: Carpet TIS Addition 1.82.4
+			conditional-mixin: conditional mixin 0.6.4
+		chunksending: Chunksending Mod 26.2-3.9
+		cicada: CICADA 0.15.2 26.2
+			org_yaml_snakeyaml: snakeyaml 2.2
+		cupboard: cupboard 26.2-4.2
+		do_a_barrel_roll: Do a Barrel Roll 3.8.4
+			fabric-permissions-api-v0: fabric-permissions-api 0.6.1
+		dreamdisplays: Dream Displays 1.10.0-preview.1
+		fabric-api: Fabric API 0.161.0 26.2
+			fabric-advancement-api-v1: Fabric Advancement API (v1) 1.0.0 58719a3b9e
+			fabric-api-base: Fabric API Base 2.0.4 ece063239e
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 2.0.18 11e1c9a39e
+			fabric-biome-api-v1: Fabric Biome API (v1) 18.0.6 c7bd5b8e9e
+			fabric-block-api-v1: Fabric Block API (v1) 3.1.0 53515aab9e
+			fabric-block-getter-api-v2: Fabric BlockGetter API (v2) 2.0.7 ec56b6019e
+			fabric-command-api-v2: Fabric Command API (v2) 3.1.0 00cb03469e
+			fabric-content-registries-v0: Fabric Content Registries (v0) 11.3.2 37b1aa249e
+			fabric-convention-tags-v2: Fabric Convention Tags (v2) 4.7.1 1f023a9e9e
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 1.0.5 086d547a9e
+			fabric-creative-tab-api-v1: Fabric Creative Tab API (v1) 5.0.15 6468574f9e
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 2.2.19 515ac5339e
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 25.6.0 c0da0b829e
+			fabric-debug-api-v1: Fabric Debug API (v1) 1.0.2 c792624d9e
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 5.1.12 515ac5339e
+			fabric-entity-events-v1: Fabric Entity Events (v1) 5.0.5 06488ac19e
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 5.2.8 515ac5339e
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 4.0.8 46a6d00c9e
+			fabric-item-api-v1: Fabric Item API (v1) 14.5.0 c68f6cbe9e
+			fabric-key-mapping-api-v1: Fabric Key Mapping API (v1) 2.0.5 e2bdee789e
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 4.1.4 29b6eb019e
+			fabric-loot-api-v3: Fabric Loot API (v3) 3.0.17 06488ac19e
+			fabric-menu-api-v1: Fabric Menu API (v1) 2.0.17 086d547a9e
+			fabric-message-api-v1: Fabric Message API (v1) 7.0.8 bb2ed3f79e
+			fabric-model-loading-api-v1: Fabric Model Loading API (v1) 8.0.17 c80601bb9e
+			fabric-networking-api-v1: Fabric Networking API (v1) 6.3.4 2989c6a09e
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 24.1.1 6fcd5f039e
+			fabric-particles-v1: Fabric Particles (v1) 5.0.19 d1756aa99e
+			fabric-permission-api-v1: Fabric Permission API (v1) 1.0.5 e442d8d09e
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 9.0.22 11e1c9a39e
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 7.1.1 c7bd5b8e9e
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 14.1.4 2b0d8a229e
+			fabric-renderer-indigo: Fabric Renderer - Indigo 9.1.4 2b0d8a229e
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 6.0.4 06488ac19e
+			fabric-rendering-v1: Fabric Rendering (v1) 25.3.3 515ac5339e
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 6.1.0 10e9a28b9e
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 3.3.20 4fc5413f9e
+			fabric-resource-loader-v1: Fabric Resource Loader (v1) 2.0.13 9edec1269e
+			fabric-screen-api-v1: Fabric Screen API (v1) 5.2.1 5087f8249e
+			fabric-serialization-api-v1: Fabric Serialization API (v1) 2.0.4 11a26f319e
+			fabric-sound-api-v1: Fabric Sound API (v1) 2.0.5 11a26f319e
+			fabric-tag-api-v1: Fabric Tag API (v1) 2.1.4 515ac5339e
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 8.0.13 11dbb7d79e
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 8.1.4 67c847259e
+		fabricloader: Fabric Loader 0.19.3
+			mixinextras: MixinExtras 0.5.4
+		fastasyncworldsave: fastasyncworldsave Mod 26.1-2.6
+		ferritecore: FerriteCore 9.0.0
+		java: Java HotSpot(TM) 64-Bit Server VM 25
+		krypton: Krypton 0.3.1
+			com_velocitypowered_velocity-native: velocity-native 3.4.0-SNAPSHOT
+		ksyxis: Ksyxis 1.4.4
+		lithium: Lithium 0.25.3 mc26.2
+		meteor-client: Meteor Client 26.2-25
+			de_florianreuth_waybackauthlib: waybackauthlib 1.1.0
+			io_netty_netty-codec-socks: netty-codec-socks 4.2.15
+			io_netty_netty-handler-proxy: netty-handler-proxy 4.2.15
+			meteordevelopment_discord-ipc: discord-ipc 1.1
+			meteordevelopment_orbit: orbit 0.2.4
+			net_lenni0451_commons_gson: gson 1.9.2
+			net_lenni0451_commons_httpclient: httpclient 1.9.2
+			net_raphimc_minecraftauth: MinecraftAuth 5.0.2
+			org_javassist_javassist: javassist 3.28.0-GA
+			org_meteordev_starscript: starscript 0.2.5
+			org_reflections_reflections: reflections 0.10.2
+		minecraft: Minecraft 26.2
+		modernfix: ModernFix 5.27.19-build.1
+		modmenu: Mod Menu 20.0.3
+		notsoshadowextras: Not So Shadow Extras 2.1.7
+			fconfiglib: FConfigLib 1.1.1
+		polymer-bundled: Polymer 0.17.5 26.2
+			polymer-autohost: Polymer (Auto Host) 0.17.5 26.2
+			polymer-blocks: Polymer (Textured Blocks) 0.17.5 26.2
+			polymer-common: Polymer (Common) 0.17.5 26.2
+			polymer-core: Polymer (Core) 0.17.5 26.2
+				polymer-networking: Polymer (Networking) 0.17.5 26.2
+				polymer-registry-sync-manipulator: Polymer (Registry Sync Manipulator) 0.17.5 26.2
+			polymer-resource-pack: Polymer (Resource Pack) 0.17.5 26.2
+			polymer-resource-pack-extras: Polymer (Resource Pack Extras) 0.17.5 26.2
+			polymer-sound-patcher: Polymer (Sound Patcher) 0.17.5 26.2
+			polymer-virtual-entity: Polymer (Virtual Entity) 0.17.5 26.2
+		polysit: Polysit 0.9.11 mc.26.2
+		scalablelux: ScalableLux 0.3.0-alpha.0.3 26.2
+		signed_paintings: Signed Paintings 1.2.15-mc26.2
+		slashlength: Slash Length 1.0.0
+		sodium: Sodium 0.9.2 mc26.2
+		yet_another_config_lib_v3: YetAnotherConfigLib 3.9.6 26.2-fabric
+			com_twelvemonkeys_common_common-image: common-image 3.12.0
+			com_twelvemonkeys_common_common-io: common-io 3.12.0
+			com_twelvemonkeys_common_common-lang: common-lang 3.12.0
+			com_twelvemonkeys_imageio_imageio-core: imageio-core 3.12.0
+			com_twelvemonkeys_imageio_imageio-metadata: imageio-metadata 3.12.0
+			com_twelvemonkeys_imageio_imageio-webp: imageio-webp 3.12.0
+			org_quiltmc_parsers_gson: gson 0.2.1
+			org_quiltmc_parsers_json: json 0.2.1
+		zfastnoise: Fast Noise 1.1.0-beta.3 26.2
+			com_electronwill_night-config_core: core 3.8.3
+			com_electronwill_night-config_toml: toml 3.8.3
+	Server Running: true
+	Player Count: 0 / 8; []
+	Active Data Packs: vanilla, fabric-convention-tags-v2
+	Available Data Packs: fabric-convention-tags-v2, minecart_improvements, redstone_experiments, trade_rebalance, vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 916808514501472747
+	Suppressed Exceptions: ~~NONE~~
+	Type: Integrated Server
+	Is Modded: Definitely; Client brand changed to 'fabric'; Server brand changed to 'fabric'
+	Launched Version: 26.2
+	Launched Version: 26.2
+	Backend library: LWJGL version 3.4.1-snapshot
+	Window size: 1920x1080
+	Surface Info: IMMEDIATE, 1920 x 1081
+	GFLW Platform: win32
+	Graphics Device: NVIDIA GeForce MX350
+	Graphics Backend: Vulkan
+	Graphics Vendor: NVIDIA
+	Graphics Drivers: 1.3.242 NVIDIA 537.58
+	Graphics Device Extensions: VK_KHR_synchronization2 (D), VK_EXT_multi_draw (D), VK_AMD_buffer_marker (D), VK_EXT_vertex_attribute_divisor (D), VK_KHR_win32_surface (I), VK_KHR_swapchain (D), VK_KHR_surface (I), VK_KHR_push_descriptor (D), VK_EXT_debug_utils (I), VK_KHR_dynamic_rendering (D)
+	Graphics Device Type: DISCRETE
+	Graphics Device Features: DeviceFeatures[shaderDrawParameters=true, multiDrawDirectInterleaved=true, multiDrawDirectSeparate=false, multiDrawIndirect=true, drawIndirect=true, nonZeroFirstInstance=true, persistentMapping=true]
+	GL debug messages: 
+	Is Modded: Definitely; Client brand changed to 'fabric'
+	Universe: 400921fb54442d18
+	Type: Client
+	Transparency: regular
+	Render Distance: 16/16 chunks
+	Narrator config: OFF
+	Narrator status: true
+	Resource Packs: vanilla, alternate-current, antishadowpatch, c2me, carpet, carpet-tis-addition, chunksending (incompatible), cicada, conditional-mixin, do_a_barrel_roll (incompatible), dreamdisplays, fabric-advancement-api-v1, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-getter-api-v2, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-creative-tab-api-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-debug-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-key-mapping-api-v1, fabric-lifecycle-events-v1, fabric-loot-api-v3, fabric-menu-api-v1, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-permission-api-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fconfiglib, krypton, ksyxis (incompatible), lithium, meteor-client, modernfix (incompatible), modmenu, notsoshadowextras, polymer-blocks, polymer-core, polymer-resource-pack, polysit, scalablelux, signed_paintings, slashlength, sodium, yet_another_config_lib_v3 (incompatible), zfastnoise, $polymer-resources, file/Appa Ghasts1.3.1.zip
+	Sound Cache: 0 bytes in 0 buffers
+	Current Language: en_us
+	Locale: en_US
+	System encoding: UTF-8
+	File encoding: UTF-8
+	CPU: 8x Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+	Server Running: true
+	Player Count: 0 / 8; []
+	Active Data Packs: vanilla, fabric-convention-tags-v2
+	Available Data Packs: fabric-convention-tags-v2, minecart_improvements, redstone_experiments, trade_rebalance, vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 916808514501472747
+	Suppressed Exceptions: ~~NONE~~
+	Type: Integrated Server
+	Is Modded: Definitely; Client brand changed to 'fabric'; Server brand changed to 'fabric'
+	Launched Version: 26.2
+-- Meteor Client --
+Version: 26.2
+Build: 25
+[[ Active Modules ]]
+[Combat]:
+kill-aura
+[Player]:
+anti-hunger
+auto-eat
+no-status-effects
+[Movement]:
+air-jump
+no-fall
+no-slow
+velocity
+[Render]:
+better-tooltips
+nametags
+tracers
+[Misc]:
+anti-packet-kick
+auto-reconnect
+discord-presence
+[[ Active Hud Elements ]]
+Text
+{{meteor.name} #1{meteor.version}}
+Text
+{FPS: #1{fps}}
+Text
+{TPS: #1{round(server.tps, 1)}}
+Text
+{Ping: #1{ping}}
+Text
+{Speed: #1{round(player.speed, 1)}}
+active-modules
+Text
+{Pos: #1{floor(camera.pos.x)}, {floor(camera.pos.y)}, {floor(camera.pos.z)}}
+Text
+{{player.opposite_dimension != "End" ? player.opposite_dimension   ":" : ""} #1{player.opposite_dimension != "End" ? ""   floor(camera.opposite_dim_pos.x)   ", "   floor(camera.opposite_dim_pos.y)   ", "   floor(camera.opposite_dim_pos.z) : ""}}
+Text
+{{camera.direction} #1({round(camera.yaw, 1)}, {round(camera.pitch, 1)})}
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\********\AppData\Roaming\PolyMC\instances\26.2\.minecraft\crash-reports\crash-2026-09-26_11.48.16-server.txt
+Process exited with code -1.
+PolyMC: Log upload triggered at: 26 Sep 2026 11:49:27  0800
